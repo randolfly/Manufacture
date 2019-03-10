@@ -1,2 +1,2 @@
-# -
-Ｔｈｉｓ　ｉｓ　ａｎ　ｏｐｔｉｏｎａｌ　ｗｏｒｋ　ｆｏｒ　ｍｙ　ｄｉｓｃｒｅｔ　ｍａｔｈｅｍａｔｉｃａ，　ａｎｄ　ｔｈｅ　ｔａｒｇｅｔ　ｉｓ　ｔｏ　ｇｅｎｅｒａｔｅ　ａｎ　ｕｓｅｆｕｌ　ｐｒｏｃｅｓｓ　ｆｏｒ　ＣＡＤ　ｏｒ　３Ｄ　ｐａｒｔｓ
+# header
+The aim of this project is to generate a reliable process for some mechanial parts
